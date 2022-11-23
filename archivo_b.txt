@@ -1,0 +1,2 @@
+añado la segunda line al archivo_b.txt en la rama intento
+añado la primera line al archivo_b.txt en la rama intento
